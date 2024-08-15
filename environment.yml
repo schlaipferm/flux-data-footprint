@@ -1,0 +1,16 @@
+name: ffp
+channels:
+  - conda-forge
+dependencies:
+  - numpy>=1.20.0
+  - matplotlib>=2.0
+  - scipy>=1.0
+  - pandas>=2.0
+  - xarray>=3.0
+  - pyproj>=3.0
+  - rasterio>=1.0
+  - refet>=0.3
+  - opencv
+  - cartopy
+  - pynio
+

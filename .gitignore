@@ -2,6 +2,7 @@
 AMF_query.csv
 
 #
+*.tif
 *.xlsx
 *~
 celery_out/*.png
